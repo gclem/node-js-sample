@@ -1,6 +1,5 @@
 apps:
-  - script   : npm
-    args     : start
+  - script   : npm start
     name     : 'sample-js'
     instances: 1
     exec_mode: cluster
